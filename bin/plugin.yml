@@ -1,0 +1,5 @@
+name: CzHouses
+author: yLost
+version: 1.01.10
+main: com.czhouses.HousesCore
+load: STARTUP

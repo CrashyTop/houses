@@ -1,0 +1,20 @@
+MySQL:
+    Address: 127.0.0.1
+    Port: 3306
+    Database: db
+    User: root
+    Password: pass
+
+Location_hologram: world;0.0;0.0;0.0;0.0;0.0
+
+Commands:
+    Cash:
+        Enable:
+        - 'cash give player 10'
+        Disable:
+        - 'cash take player 10'
+    Money:
+        Enable:
+        - 'money give player 10'
+        Disable:
+        - 'money take player 10'
